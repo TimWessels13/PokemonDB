@@ -1,0 +1,69 @@
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.csprojAssemblyReference.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.csproj.CoreCompileInputs.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.RazorAssemblyInfo.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.RazorAssemblyInfo.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.AssemblyInfoInputs.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.AssemblyInfo.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.deps.json
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.runtimeconfig.json
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.runtimeconfig.dev.json
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.dll
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.pdb
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.Views.dll
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\bin\Debug\netcoreapp2.2\Pokemon Database.Views.pdb
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.TagHelpers.input.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.TagHelpers.output.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.RazorCoreGenerate.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.RazorTargetAssemblyInfo.cache
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.RazorTargetAssemblyInfo.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.Views.pdb
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.dll
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.pdb
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Pokemon Database.csproj.CopyComplete
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Color\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Color\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Color\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Color\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Color\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Gender\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Gender\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Gender\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Gender\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Gender\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Generation\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Generation\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Generation\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Generation\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Generation\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Type\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Type\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Type\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Type\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Type\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Pokemons\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Pokemons\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Pokemons\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Pokemons\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Pokemons\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\PokemonTypes\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\PokemonTypes\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\PokemonTypes\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\PokemonTypes\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\PokemonTypes\Index.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Go\Create.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Go\Delete.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Go\Details.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Go\Edit.g.cshtml.cs
+C:\Users\Zorro\Documents\Server\timwessels\public_html\pokemon\Pokemon\Pokemon\obj\Debug\netcoreapp2.2\Razor\Views\Go\Index.g.cshtml.cs

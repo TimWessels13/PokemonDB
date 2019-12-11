@@ -1,0 +1,32 @@
+﻿@model IEnumerable<PokeType>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@foreach (var item in Model)
+{
+    <div class="float-left col-md-4">
+        <div class="card imageback @item.Name" style="background-image: url('/uploads/images/types/@item.ImageFileName');">
+            <div class="card-header">
+                <h3>@Html.DisplayFor(modelItem => item.Name)</h3>
+            </div>
+            <div class="card-body">
+                <img class="pokimg afbeelding col-md-12" src="~/uploads/images/types/@item.ImageFileName" alt="@item.Name" title="@item.Name">
+            </div>
+            <div class="card-footer">
+                <div class="row">
+                    <div class="col-md-3"></div>
+                    <a class="btn btn-primary col-md-3" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-primary col-md-3" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <div class="col-md-3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
