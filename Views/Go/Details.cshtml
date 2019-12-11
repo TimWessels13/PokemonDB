@@ -1,0 +1,54 @@
+﻿@model Go
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Go</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pokemon)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pokemon.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Seen)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Seen)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Caught)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Caught)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Lucky)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Lucky)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Shiny)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Shiny)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Shadow)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Shadow)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
