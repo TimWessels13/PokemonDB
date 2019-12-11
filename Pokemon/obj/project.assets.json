@@ -12945,11 +12945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zorro\\Documents\\Server\\timwessels\\public_html\\pokemon\\Pokemon\\Pokemon\\Pokemon_DB.csproj",
+      "projectUniqueName": "C:\\Users\\Zorro\\Documents\\Server\\timwessels\\public_html\\pokemon\\PokemonDB\\Pokemon\\Pokemon_DB.csproj",
       "projectName": "Pokemon_DB",
-      "projectPath": "C:\\Users\\Zorro\\Documents\\Server\\timwessels\\public_html\\pokemon\\Pokemon\\Pokemon\\Pokemon_DB.csproj",
+      "projectPath": "C:\\Users\\Zorro\\Documents\\Server\\timwessels\\public_html\\pokemon\\PokemonDB\\Pokemon\\Pokemon_DB.csproj",
       "packagesPath": "C:\\Users\\Zorro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zorro\\Documents\\Server\\timwessels\\public_html\\pokemon\\Pokemon\\Pokemon\\obj\\",
+      "outputPath": "C:\\Users\\Zorro\\Documents\\Server\\timwessels\\public_html\\pokemon\\PokemonDB\\Pokemon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
