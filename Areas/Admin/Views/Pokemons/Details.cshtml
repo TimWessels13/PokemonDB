@@ -1,0 +1,166 @@
+﻿@model PokemonView
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+@foreach (var p in Model.Pokemon)
+{
+
+    <div class="float-left col-md-12">
+        @foreach (Color c in Model.Color)
+        {
+            if (c.Id == p.ColorId)
+            {
+                <div class="card @c.Name" style="background-color:@c.Name">
+                    <div class="card-header" style="text-align: center;">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 class="float-right">
+                                    #
+                                    @if (p.Number < 10)
+                                    {
+                                        var number = "00" + p.Number;
+                                        @number
+                                    }
+                                    else if (p.Number < 100)
+                                    {
+                                        var number = "0" + p.Number;
+                                        @number
+                                    }
+                                    else if (p.Number < 1000)
+                                    {
+                                        var number = "" + p.Number;
+                                        @number
+                                    }
+                                    else
+                                    {
+                                        var number = p.Number;
+                                        @number
+                                    }
+                                </h3>
+                                <h1 style="text-align: center;">@p.Name</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-3">
+                                @foreach (var g in Model.Gender)
+                                {
+                                    if (g.Id == p.GenderId)
+                                    {
+                                        <p> Gender: @g.Name</p>
+                                    }
+                                }
+                                <p>Generation @p.Generation</p>
+                                @foreach (var col in Model.Color)
+                                {
+                                    if (col.Id == p.ColorId)
+                                    {
+                                        <p>Pokedex color: @col.Name</p>
+                                    }
+                                }
+                                @foreach (var pt in Model.PokemonType)
+                                {
+                                    if (p.Id == pt.PokemonsId)
+                                    {
+                                        @foreach (var t in Model.PokeType)
+                                        {
+                                            if (pt.PokeTypeId == t.Id)
+                                            {
+                                                <span style="margin-right: 5px;"><img class="pokimg3 afbeelding" src="/uploads/images/types/@t.ImageFileName" alt="@t.Name" title="@t.Name"></span>
+                                            }
+                                        }
+                                    }
+                                }
+
+                            </div>
+                            <div class="col-md-6">
+                                <img class="pokimg2 afbeelding col-md-12" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/@p.url" alt="@p.Name" title="@p.Name">
+                            </div>
+                            <div class="col-md-3">
+                                <div class="col-sm-12">
+                                    @foreach (var hp in Model.Pokemon)
+                                    {
+                                        if (hp.Id == p.Id)
+                                        {
+                                            <p>HP</p>
+                                            <div class="skill-bar">
+                                                <div class="fill" style="width:calc(@hp.HP * 10%);">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                    @foreach (var atk in Model.Pokemon)
+                                    {
+                                        if (atk.Id == p.Id)
+                                        {
+                                            <p>Attack</p>
+                                            <div class="skill-bar">
+                                                <div class="fill" style="width:calc(@atk.Attack * 10%);">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                    @foreach (var spatk in Model.Pokemon)
+                                    {
+                                        if (spatk.Id == p.Id)
+                                        {
+                                            <p>Special attack</p>
+                                            <div class="skill-bar">
+                                                <div class="fill" style="width:calc(@spatk.Special_Attack * 10%);">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                    @foreach (var def in Model.Pokemon)
+                                    {
+                                        if (def.Id == p.Id)
+                                        {
+                                            <p>Defense</p>
+                                            <div class="skill-bar">
+                                                <div class="fill" style="width:calc(@def.Defense * 10%);">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                    @foreach (var spdef in Model.Pokemon)
+                                    {
+                                        if (spdef.Id == p.Id)
+                                        {
+                                            <p>Special defense</p>
+                                            <div class="skill-bar">
+                                                <div class="fill" style="width:calc(@spdef.Special_Defense * 10%);">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                    @foreach (var sp in Model.Pokemon)
+                                    {
+                                        if (sp.Id == p.Id)
+                                        {
+                                            <p>Speed</p>
+                                            <div class="skill-bar">
+                                                <div class="fill" style="width:calc(@sp.Speed * 10%);">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="col-md-3"></div>
+                            <div class="col-md-3"><a class="btn btn-primary col-md-12" asp-action="Edit" asp-route-id="@p.Id">Edit</a></div>
+                            <div class="col-md-3"><a class="btn btn-primary col-md-12" asp-action="Index">Back to List</a></div>
+                            <div class="col-md-3"></div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+}
